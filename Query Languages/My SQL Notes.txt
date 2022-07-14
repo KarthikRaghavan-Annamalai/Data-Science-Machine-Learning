@@ -1,0 +1,13 @@
+Root Account for Mysql
+
+user id - admin
+password - admin
+
+user id - akr
+password - karthik
+
+Mongo DB atlas
+Database user name
+
+karthikraghavan
+karthikraghavan
